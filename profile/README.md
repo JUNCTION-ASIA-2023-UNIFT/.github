@@ -11,12 +11,10 @@
 ![problem-solution](https://github.com/JUNCTION-ASIA-2023-UNIFT/.github/assets/76704035/bce0f4bd-b5bc-4986-bedc-3b28bf69458e)
 
 ### services introduction
-![introduction](https://github.com/JUNCTION-ASIA-2023-UNIFT/.github/assets/76704035/8e6d81ae-8d0c-43d1-b233-5ed8d6553971)
-![MacBook Pro 14_ - 33](https://github.com/JUNCTION-ASIA-2023-UNIFT/.github/assets/89764127/8e0ccd31-07d7-4ea3-9b7b-d3a0af78f4ce)
+![project-introduction](https://github.com/JUNCTION-ASIA-2023-UNIFT/.github/assets/89764127/74e41251-d367-416b-b1a5-f36562b9fbeb)
 
 ### Main features
-![feature](https://github.com/JUNCTION-ASIA-2023-UNIFT/.github/assets/76704035/a7c856ef-4eaf-4152-af81-ff75cd81dfee)
-![MacBook Pro 14_ - 34](https://github.com/JUNCTION-ASIA-2023-UNIFT/.github/assets/89764127/d715b923-afb1-4848-9bb2-ab8b2bbcc8c8)
+![main-feature](https://github.com/JUNCTION-ASIA-2023-UNIFT/.github/assets/89764127/1a3b0f66-b3d4-4a08-87d9-346759393b43)
 
 
 ## Front End
